@@ -15,5 +15,3 @@ ibm.Price = 120.10;
 ibm.Price = 121.00;
 ibm.Price = 120.50;
 ibm.Price = 120.75;
-
-//Console.ReadKey();
